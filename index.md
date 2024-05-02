@@ -9,3 +9,6 @@ $ git init
 String name = "hello", name2 = "world";
 System.out.writeln(name + name2);
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
